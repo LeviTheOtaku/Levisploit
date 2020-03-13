@@ -1,0 +1,34 @@
+D:\levij\source\repos\newer\Levisploit\Levisploit\bin\Debug\Levisploit.exe.config
+D:\levij\source\repos\newer\Levisploit\Levisploit\bin\Debug\Levisploit.exe
+D:\levij\source\repos\newer\Levisploit\Levisploit\bin\Debug\Levisploit.pdb
+D:\levij\source\repos\newer\Levisploit\Levisploit\obj\Debug\Levisploit.csprojAssemblyReference.cache
+D:\levij\source\repos\newer\Levisploit\Levisploit\obj\Debug\Levisploit.Properties.Resources.resources
+D:\levij\source\repos\newer\Levisploit\Levisploit\obj\Debug\Levisploit.csproj.GenerateResource.cache
+D:\levij\source\repos\newer\Levisploit\Levisploit\obj\Debug\Levisploit.csproj.CoreCompileInputs.cache
+D:\levij\source\repos\newer\Levisploit\Levisploit\obj\Debug\Levisploit.exe
+D:\levij\source\repos\newer\Levisploit\Levisploit\obj\Debug\Levisploit.pdb
+D:\levij\source\repos\newer\Levisploit\Levisploit\obj\Debug\Levisploit.Form2.resources
+D:\levij\source\repos\newer\Levisploit\Levisploit\obj\Debug\Levisploit.Form3.resources
+D:\levij\source\repos\newer\Levisploit\Levisploit\obj\Debug\Levisploit.Form1.resources
+D:\levij\source\repos\Levisploit\Levisploit\bin\Debug\Levisploit.exe.config
+D:\levij\source\repos\Levisploit\Levisploit\bin\Debug\Levisploit.exe
+D:\levij\source\repos\Levisploit\Levisploit\obj\Debug\Levisploit.csprojAssemblyReference.cache
+D:\levij\source\repos\Levisploit\Levisploit\obj\Debug\Levisploit.Form1.resources
+D:\levij\source\repos\Levisploit\Levisploit\obj\Debug\Levisploit.Form3.resources
+D:\levij\source\repos\Levisploit\Levisploit\obj\Debug\Levisploit.Form2.resources
+D:\levij\source\repos\Levisploit\Levisploit\obj\Debug\Levisploit.Properties.Resources.resources
+D:\levij\source\repos\Levisploit\Levisploit\obj\Debug\Levisploit.csproj.GenerateResource.cache
+D:\levij\source\repos\Levisploit\Levisploit\obj\Debug\Levisploit.exe
+D:\levij\source\repos\Levisploit\Levisploit\obj\Debug\Levisploit.csproj.Fody.CopyLocal.cache
+D:\levij\source\repos\Levisploit\Levisploit\obj\Debug\Levisploit.Form4.resources
+D:\levij\source\repos\Axon Levisploit\Levisploit\bin\Debug\Levisploit.exe.config
+D:\levij\source\repos\Axon Levisploit\Levisploit\bin\Debug\Levisploit.exe
+D:\levij\source\repos\Axon Levisploit\Levisploit\obj\Debug\Levisploit.csprojAssemblyReference.cache
+D:\levij\source\repos\Axon Levisploit\Levisploit\obj\Debug\Levisploit.Form1.resources
+D:\levij\source\repos\Axon Levisploit\Levisploit\obj\Debug\Levisploit.Form4.resources
+D:\levij\source\repos\Axon Levisploit\Levisploit\obj\Debug\Levisploit.Form3.resources
+D:\levij\source\repos\Axon Levisploit\Levisploit\obj\Debug\Levisploit.Form2.resources
+D:\levij\source\repos\Axon Levisploit\Levisploit\obj\Debug\Levisploit.Properties.Resources.resources
+D:\levij\source\repos\Axon Levisploit\Levisploit\obj\Debug\Levisploit.csproj.GenerateResource.cache
+D:\levij\source\repos\Axon Levisploit\Levisploit\obj\Debug\Levisploit.csproj.Fody.CopyLocal.cache
+D:\levij\source\repos\Axon Levisploit\Levisploit\obj\Debug\Levisploit.exe
